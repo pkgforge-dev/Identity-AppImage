@@ -1,7 +1,7 @@
 # Identity-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Identity-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Identity-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/Identity-AppImage/actions/workflows/blank.yml/badge.svg)](https://github.com/pkgforge-dev/Identity-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/Identity-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Identity-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://gitlab.gnome.org/YaLTeR/identity/-/raw/main/data/icons/org.gnome.gitlab.YaLTeR.Identity.svg?ref_type=heads" width="128" />
