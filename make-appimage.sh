@@ -12,6 +12,7 @@ export ICON=/usr/share/icons/hicolor/scalable/apps/org.gnome.gitlab.YaLTeR.Ident
 export DESKTOP=/usr/share/applications/org.gnome.gitlab.YaLTeR.Identity.desktop
 export DEPLOY_OPENGL=1
 export DEPLOY_GSTREAMER=1
+export STARTUPWMCLASS=org.gnome.gitlab.YaLTeR.Identity # Default to Wayland's wmclass. For X11, GTK_CLASS_FIX will force the wmclass to be the Wayland one.
 export GTK_CLASS_FIX=1
 
 # Trace and deploy all files and directories needed for the application (including binaries, libraries and others)
