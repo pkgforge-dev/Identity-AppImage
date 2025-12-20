@@ -8,9 +8,9 @@ echo "Installing package and its dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
             identity \
-	    gst-libav \
-	    gst-plugins-bad \
-	    gst-plugins-ugly
+	        gst-libav \
+	        gst-plugins-bad \
+	        gst-plugins-ugly
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
