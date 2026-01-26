@@ -1,3 +1,5 @@
+<div align="center">
+
 # Identity AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Identity-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Identity-AppImage/releases/latest)
@@ -8,7 +10,11 @@
   <img src="https://gitlab.gnome.org/YaLTeR/identity/-/raw/main/data/icons/org.gnome.gitlab.YaLTeR.Identity.svg?ref_type=heads" width="128" />
 </p>
 
-* [Upstream URL](https://gitlab.gnome.org/YaLTeR/identity)
+| Latest Stable Release | Upstream URL |
+| :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/Identity-AppImage/releases/latest) | [Click here](https://gitlab.gnome.org/YaLTeR/identity) |
+
+</div>
 
 ---
 
